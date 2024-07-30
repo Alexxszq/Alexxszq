@@ -1,5 +1,10 @@
 ## Oiee, seja bem-vindo!
-Meu nome é Alexsandra, e estou estudando no 
+Meu nome é Alexsandra, e estou fazendo curso na <a href="https://www.incapcursos.com/">Incap cursos profissionalizantes</a></p> 
+Eu faço dois cursos, um de Administração e Marketing digital e outro de Web designer.
+Estou cursando Web designer de uma forma muito boa, lá eu desenvolvo site e imagens.
+Administração e Marketing digital é uma área muito boa de se cursar, o professor que dá aula é muito atencioso.
+
+A área que eu faço de Web designer me mostra muitas formas de conhecer tags de HTML e etc, é muito importante conhecer cada passo para que fique muito bem estruturado quando terminar o site.
 <!--
 **Alexxszq/Alexxszq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
