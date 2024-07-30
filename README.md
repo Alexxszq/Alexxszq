@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Oiee, seja bem-vindo!
+Meu nome é Alexsandra, e estou estudando no 
 <!--
 **Alexxszq/Alexxszq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
